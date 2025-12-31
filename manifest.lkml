@@ -4,7 +4,7 @@ project_name: "block-snowflake-usage"
 
 # The Snowflake connection as listed in the Admin panel
 constant: CONNECTION_NAME {
-  value: "block-snowflake-usage"
+  value: "snowflake_cost_and_usage"
   export: override_optional
 }
 
